@@ -1,2 +1,2 @@
 # odin-recipes
-This is a project to create a website to showcase some recipes. I will make use of HTML tags and attributes to create this website. Tags like h1 to h6 (probably not going to use all of them) for headings of differing importance, <p> for different paragraphs, <a> for links ( need to use "href" for it to actually work) etc etc.
+This is a project to create a website to showcase some recipes. I will make use of HTML tags and attributes to create this website. Tags like 'h1' to 'h6' (probably not going to use all of them) for headings of differing importance, 'p' for different paragraphs,'a' for links ( need to use "href" for it to actually work) etc etc.
